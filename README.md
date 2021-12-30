@@ -9,6 +9,6 @@ Game is built in C# with Unity 2020.3.21f1 (Personal).
 
 [Memory Profiler](https://docs.unity3d.com/Packages/com.unity.memoryprofiler@0.4/manual/index.html)
 # 🐬 Game Screenshots 🦄
-<img src="https://github.com/M0o4/FlappyBirdUnityClone/blob/main/Images/Screenshot_20211230-181909_87a4c56d48e4e47aa1bec12a842c8628.jpg" style="width: 100%"><img src="https://github.com/M0o4/FlappyBirdUnityClone/blob/main/Images/Screenshot_20211230-181923_87a4c56d48e4e47aa1bec12a842c8628.jpg" style="width: 100%"><img src="https://github.com/M0o4/FlappyBirdUnityClone/blob/main/Images/Screenshot_20211230-181928_87a4c56d48e4e47aa1bec12a842c8628.jpg" style="width: 100%">
+<img src="https://github.com/M0o4/FlappyBirdUnityClone/blob/main/Images/Screenshot_20211230-181909_87a4c56d48e4e47aa1bec12a842c8628.jpg" style="width: 50%"><img src="https://github.com/M0o4/FlappyBirdUnityClone/blob/main/Images/Screenshot_20211230-181923_87a4c56d48e4e47aa1bec12a842c8628.jpg" style="width: 50%"><img src="https://github.com/M0o4/FlappyBirdUnityClone/blob/main/Images/Screenshot_20211230-181928_87a4c56d48e4e47aa1bec12a842c8628.jpg" style="width: 50%">
 # 🖥️  📱 Install it on your phone
 [Releases](https://github.com/M0o4/FlappyBirdUnityClone/releases)
